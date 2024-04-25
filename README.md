@@ -1,15 +1,15 @@
 
 ## Lab 2
 
-### App Description
-`TODO://` Add app description![Uploading FlashCard-Lab2.gif…]()
+
+`
 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+`TODO:
 
-<img src="YOUR_GIF_URL_HE![Uploading FlashCard-Lab2.gif…]()
-RE" width=200><br>
+<img src="![FlashCard-Lab2](https://github.com/AlexandreC1/FlashCard_Lab2/assets/111916540/cea2fa06-9918-4382-96e2-9b25a928101a)
+ " width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
